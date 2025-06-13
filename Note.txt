@@ -1,0 +1,8 @@
+Form Styling Essentials | The basics to modern CSS tips & tricks (https://www.youtube.com/watch?v=nuDpLN2dazU)
+
+https://codepen.io/kevinpowell/pen/LEEzWOr
+https://codepen.io/kevinpowell/pen/JodojoQ
+
+https://github.com/Annie-Huang/form-styling-essentials
+
+-------------------------------------------------------------------------------
