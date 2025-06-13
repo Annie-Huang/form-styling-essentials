@@ -1,0 +1,21 @@
+{
+  "name": "form-styling-essentials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annie-Huang/form-styling-essentials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Annie-Huang/form-styling-essentials/issues"
+  },
+  "homepage": "https://github.com/Annie-Huang/form-styling-essentials#readme",
+  "description": ""
+}
