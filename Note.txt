@@ -7,4 +7,4 @@ https://github.com/Annie-Huang/form-styling-essentials
 
 -------------------------------------------------------------------------------
 
-
+PS C:\react\form-styling-essentials> npm run start
