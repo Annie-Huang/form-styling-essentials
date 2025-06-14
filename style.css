@@ -36,6 +36,14 @@ input {
   /*background: red;*/
 }
 
+.contact-form button {
+  justify-self: start;
+
+  /* this is to always put it into the end no matter the screen size.*/
+  /*grid-column: 1 / -1;*/
+  /*justify-self: end;*/
+}
+
 /* general styling */
 :root {
   --surface-0: hsl(229, 41%, 5%);
