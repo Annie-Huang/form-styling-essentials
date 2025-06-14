@@ -16,6 +16,11 @@ form {
 
 .form-group {
   display: grid;
+
+  /* Because we completely remove space on label field with text-box-trim, so add some fix gap so every field's space is consistent
+     Not sure if it worth all the effect to do this....
+  */
+  gap: 0.5cap;
 }
 
 input {
