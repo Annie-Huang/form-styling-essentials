@@ -95,8 +95,11 @@ label {
   text-transform: uppercase;
   font-size: 1rem;
 
-  /* Cut the space on the top and bottom of the label, progress enhancement, I love this...*/
+  /* Cut the space on the top and bottom of the label, progress enhancement, I love this...
+     But this only worth doing if you have label definitely all in upper case situation.
+  */
   text-box-trim: trim-both;
+  text-box-edge: cap alphabetic; /* cap is the capital heigh, alphabetic is the baseline bottom */
 }
 
 .fine-print {
