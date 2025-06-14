@@ -39,6 +39,7 @@ input:not([type='checkbox'], [type='radio']) {
 
   /* override it into flex */
   display: flex;
+  gap: 0.5ch; /* good idea to put into ch unit for gap here */
 }
 
 .contact-form button {
