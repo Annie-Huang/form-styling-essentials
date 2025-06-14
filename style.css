@@ -19,8 +19,8 @@ form {
 }
 
 input {
-  /*background: var(--surface-2);*/
-  background: var(--accent);
+  background: var(--surface-2);
+  /*background: var(--accent);*/
   color: var(--text-1);
   border: var(--border);
   border-radius: 16px;
@@ -29,6 +29,11 @@ input {
   /* The way to get rid of the browser min-width attached to each input field,
   see attachment of screen getting too small when we don't have the next line. */
   width: 100%;
+}
+
+.form-group:has(.fine-print) {
+  grid-column: 1 / -1;
+  /*background: red;*/
 }
 
 /* general styling */
