@@ -25,6 +25,9 @@ input {
   border: var(--border);
   border-radius: 16px;
   padding: 1ex 2ex;
+
+  /* this will impact radio button, checkbox, range input, */
+  accent-color: var(--accent);
 }
 
 input:not([type='checkbox'], [type='radio']) {
