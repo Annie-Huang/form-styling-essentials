@@ -8,6 +8,10 @@ textarea {
 form {
   display: grid;
   gap: 1rem;
+
+  @media (width > 720px) {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 .form-group {
