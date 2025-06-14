@@ -25,6 +25,10 @@ input {
   border: var(--border);
   border-radius: 16px;
   padding: 1ex 2ex;
+
+  /* The way to get rid of the browser min-width attached to each input field,
+  see attachment of screen getting too small when we don't have the next line. */
+  width: 100%;
 }
 
 /* general styling */
