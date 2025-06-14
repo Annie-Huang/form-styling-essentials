@@ -94,6 +94,9 @@ a {
 label {
   text-transform: uppercase;
   font-size: 1rem;
+
+  /* Cut the space on the top and bottom of the label, progress enhancement, I love this...*/
+  text-box-trim: trim-both;
 }
 
 .fine-print {
